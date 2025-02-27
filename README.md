@@ -78,7 +78,7 @@ console.log(config);
 Execute the script to verify that the environment variables are loaded and accessible.
 
 ```bash
-node <your_script_name>.js
+**https://s84-customer-care.onrender.com**
 ```
 
 You should see the environment variables printed in the console if everything is set up correctly.
